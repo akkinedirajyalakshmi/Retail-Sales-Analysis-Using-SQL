@@ -79,3 +79,32 @@ The project was developed to strengthen practical SQL skills by solving real-wor
 ## Skills Demonstrated
 
 SQL Server, Data Analysis, Data Cleaning, Joins, Aggregations, Subqueries, Window Functions, Business Intelligence.
+
+## Project Screenshots
+
+### Table Creation
+![Table Creation](table_creation.png)
+
+### Records Inserted
+![Records](records.png)
+
+### Basic Queries
+![Basic Queries](basic_queries.png)
+
+### Basic Joins
+![Basic Joins](basic_joins.png)
+
+### Join Analysis
+![Join Analysis](join_png.png)
+
+### Product Analysis
+![Product Analysis](product_analysis.png)
+
+### Revenue Analysis
+![Revenue Analysis](Revenue_analysis.png)
+
+### Window Functions
+![Window Functions](window_func.png)
+
+### Query Output
+![Output](output1.png)
